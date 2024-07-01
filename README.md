@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasu</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
 
-- 🌱 I’m currently learning **fullstack web development**
+- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vsh9705](https://github.com/vsh9705)
 
