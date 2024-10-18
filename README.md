@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vasu</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React**
+- 🌱 I’m currently learning **HTML, CSS, JS, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vsh9705](https://github.com/vsh9705)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **vsh.9705@gmail.com**
 
